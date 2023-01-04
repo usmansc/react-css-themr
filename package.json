@@ -1,8 +1,8 @@
 {
   "name": "react-css-themr",
   "description": "React CSS Themr",
-  "homepage": "https://github.com/javivelasco/react-css-themr#readme",
-  "version": "2.1.2",
+  "homepage": "https://github.com/usmansc/react-css-themr",
+  "version": "2.1.21",
   "main": "./lib",
   "author": {
     "email": "javier.velasco86@gmail.com",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/javivelasco/react-css-themr.git"
+    "url": "git+https://github.com/usmansc/react-css-themr.git"
   },
   "bugs": {
     "url": "https://github.com/javivelasco/react-css-themr/issues"
