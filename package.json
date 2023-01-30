@@ -1,7 +1,7 @@
 {
-  "name": "react-css-themr-usmansc",
+  "name": "react-css-themr-in2core",
   "description": "React CSS Themr",
-  "homepage": "https://github.com/usmansc/react-css-themr",
+  "homepage": "https://gitlab.in2core.com/thirdparty/react-css-themr",
   "version": "2.1.21",
   "main": "./lib",
   "author": {
@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/usmansc/react-css-themr.git"
+    "url": "git+https://gitlab.in2core.com/thirdparty/react-css-themr.git"
   },
   "bugs": {
-    "url": "https://github.com/javivelasco/react-css-themr/issues"
+    "url": "https://gitlab.in2core.com/thirdparty/react-css-themr/issues"
   },
   "keywords": [
     "css-modules",
